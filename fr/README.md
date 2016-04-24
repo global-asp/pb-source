@@ -1,0 +1,28 @@
+[French translations](https://storyweaver.org.in/search?search%5Bquery%5D=&search%5Blanguages%5D%5B%5D=French) of stories from the [Pratham Books](http://prathambooks.org/) collection.
+
+Story ID | Title | License
+-------- | ----- | -------
+0001 | [Fais-moi un beau sourire, s'il te plaît !](https://storyweaver.org.in/stories/4141-smile-please) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0002 | [Gros Roi Mince Chien](https://storyweaver.org.in/stories/1788-fat-king-thin-dog) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0002 | [Le gros roi et le chien maigre](https://storyweaver.org.in/stories/1788-fat-king-thin-dog) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0007 | [J'écoute mon corps](https://storyweaver.org.in/stories/1098-listen-to-my-body) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0008 | [C'est mon poisson ! - Non, c'est le mien !](https://storyweaver.org.in/stories/4143-my-fish-no-my-fish) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0012 | [Tout semble nouveau !](https://storyweaver.org.in/stories/4199-everything-looks-new) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0014 | [Je veux celui-là !](https://storyweaver.org.in/stories/4176-i-want-that-one) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0018 | [Goloo le Cercle](https://storyweaver.org.in/stories/5235-goloo-le-cercle) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0027 | [Infusion de la jungle](https://storyweaver.org.in/stories/4880-jungle-brew) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0050 | [Bananes à gogo](https://storyweaver.org.in/stories/4264-too-many-bananas) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0053 | [La lune et la casquette](https://storyweaver.org.in/stories/1124-the-moon-and-the-cap) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0056 | [Bonne nuit, Tinku !](https://storyweaver.org.in/stories/4200-goodnight-tinku) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0060 | [Le jour de la coupe de cheveux annuelle](https://storyweaver.org.in/stories/4272-annual-haircut-day) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0062 | [Bheema, le gros dormeur](https://storyweaver.org.in/stories/4173-bheema-the-sleepyhead) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0069 | [L'imperméable rouge](https://storyweaver.org.in/stories/4172-the-red-raincoat) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0103 | [Je sais fabriquer plein de choses !](https://storyweaver.org.in/stories/4879-i-can-make-things) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0129 | [Vilain petit chien](https://storyweaver.org.in/stories/5063-naughty-dog) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0135 | [Chantons sous la pluie](https://storyweaver.org.in/stories/4194-singing-in-the-rain) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0140 | [C'est de la faute du chat !](https://storyweaver.org.in/stories/4196-it-is-all-the-cats-fault) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0151 | [Le petit chien d'Ammu](https://storyweaver.org.in/stories/4253-ammus-puppy) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0167 | [Didi et le trésor plein de couleurs](https://storyweaver.org.in/stories/4254-didi-and-the-colourful-treasure) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0190 | [Kaushik, le gentil détective](https://storyweaver.org.in/stories/4290-kaushik-the-kind-detective) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0204 | [L'histoire des histoires](https://storyweaver.org.in/stories/4293-the-story-of-stories) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0240 | [Déluge de poissons](https://storyweaver.org.in/stories/4255-the-day-it-rained-fish) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

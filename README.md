@@ -24,41 +24,23 @@ Below is a key to the languages covered by this repository and their ISO 639-1/3
 
 ISO code | Language Name
 -------- | -------------
-[af](https://github.com/global-asp/pb-source/tree/master/af) | Afrikaans
 [as](https://github.com/global-asp/pb-source/tree/master/as) | Assamese
 [bn](https://github.com/global-asp/pb-source/tree/master/bn) | Bengali
-[de](https://github.com/global-asp/pb-source/tree/master/de) | German
 [en](https://github.com/global-asp/pb-source/tree/master/en) | English
-[es](https://github.com/global-asp/pb-source/tree/master/es) | Spanish
-[fr](https://github.com/global-asp/pb-source/tree/master/fr) | French
 [gu](https://github.com/global-asp/pb-source/tree/master/gu) | Gujarati
 [hi](https://github.com/global-asp/pb-source/tree/master/hi) | Hindi
-[it](https://github.com/global-asp/pb-source/tree/master/it) | Italian
-[ja](https://github.com/global-asp/pb-source/tree/master/ja) | Japanese
-[km](https://github.com/global-asp/pb-source/tree/master/km) | Khmer
 [kn](https://github.com/global-asp/pb-source/tree/master/kn) | Kannada
 [kok](https://github.com/global-asp/pb-source/tree/master/kok) | Konkani
 [kru](https://github.com/global-asp/pb-source/tree/master/kru) | Kurukh
-[lgg](https://github.com/global-asp/pb-source/tree/master/lgg) | Lugbarati
-[lko](https://github.com/global-asp/pb-source/tree/master/lko) | Khayo
-[mas](https://github.com/global-asp/pb-source/tree/master/mas) | Maa
 [ml](https://github.com/global-asp/pb-source/tree/master/ml) | Malayalam
 [mqu](https://github.com/global-asp/pb-source/tree/master/mqu) | Mundari
 [mr](https://github.com/global-asp/pb-source/tree/master/mr) | Marathi
-[nl](https://github.com/global-asp/pb-source/tree/master/nl) | Dutch
-[no](https://github.com/global-asp/pb-source/tree/master/no) | Norwegian
-[nso](https://github.com/global-asp/pb-source/tree/master/nso) | Northern Sotho
 [or](https://github.com/global-asp/pb-source/tree/master/or) | Oriya
 [pa](https://github.com/global-asp/pb-source/tree/master/pa) | Punjabi
-[pt](https://github.com/global-asp/pb-source/tree/master/pt) | Portuguese
 [sa](https://github.com/global-asp/pb-source/tree/master/sa) | Sanskrit
 [sck](https://github.com/global-asp/pb-source/tree/master/sck) | Sadri
-[st](https://github.com/global-asp/pb-source/tree/master/st) | Sesotho
-[sw](https://github.com/global-asp/pb-source/tree/master/sw) | Swahili
 [ta](https://github.com/global-asp/pb-source/tree/master/ta) | Tamil
 [te](https://github.com/global-asp/pb-source/tree/master/te) | Telugu
-[xh](https://github.com/global-asp/pb-source/tree/master/xh) | Xhosa
-[zu](https://github.com/global-asp/pb-source/tree/master/zu) | Zulu
 
 ## License
 

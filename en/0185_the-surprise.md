@@ -16,7 +16,7 @@ The twins were very sad. Their older sister tried to cheer them up. She dressed 
 All of a sudden they froze. They saw something they really wanted.............
 
 ##
-A merry-go-round!!!!However happy they were they couldn't control their excitement. They had a lot of fun. And in their point of view It Was The BEST DAY EVER!!!!:]
+A merry-go-round!!!! However happy they were they couldn't control their excitement. They had a lot of fun. And in their point of view It Was The BEST DAY EVER!!!!:)
 
 ##
 * License: [CC-BY]

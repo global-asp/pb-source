@@ -104,7 +104,7 @@ After his mother had thanked the nice policeman who brought him back, Mani took 
 
 “So how was it, your little adventure?”
 
-Mani shuddered. The streets had been filled with people but they were all somehow different. They were all[DaTrnzYwo] strangers. With the Amulet, the streets were filled with many people he almost knew. Their names, the kind of music they liked, who their friends were, lots of fun stuff like that.
+Mani shuddered. The streets had been filled with people but they were all somehow different. They were all strangers. With the Amulet, the streets were filled with many people he almost knew. Their names, the kind of music they liked, who their friends were, lots of fun stuff like that.
 
 ##
 Without the Amulet even simple things, like crossing the streets, had become difficult. There was no voice to tell him: “You can cross now, Manikantan.” And nobody knew him either.

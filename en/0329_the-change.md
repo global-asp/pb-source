@@ -14,7 +14,7 @@ Then I saw myself in the mirror and got shocked!! I had turned into an alien blu
 At last I made a rocket and took my friend and flew.
 
 ##
-We at last came on planet Mars and were happy we started finding and my friend [Rot] and me [Ron] started finding the reason.
+We at last came on planet Mars and were happy we started finding and my friend (Rot) and me (Ron) started finding the reason.
 
 ##
 Rot called me and told there is a wand here then I picked it up.
